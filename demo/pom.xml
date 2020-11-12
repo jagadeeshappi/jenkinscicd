@@ -10,12 +10,13 @@
 	</parent>
 	<groupId>com.example</groupId>
 	<artifactId>demo</artifactId>
+	<packaging>war</packaging>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>demo</name>
 	<description>Demo project for Spring Boot</description>
 
 	<properties>
-		<java.version>11</java.version>
+		<java.version>1.8</java.version>
 		<spring-cloud-services.version>2.2.6.RELEASE</spring-cloud-services.version>
 		<spring-cloud.version>Hoxton.SR9</spring-cloud.version>
 	</properties>
